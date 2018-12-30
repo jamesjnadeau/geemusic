@@ -15,7 +15,7 @@ Flask==0.12.1
 -e git+https://github.com/johnwheeler/flask-ask@fe407646ae404a8c90b363c86d5c4c201b6a5580#egg=Flask_Ask
 future==0.17.1
 fuzzywuzzy==0.17.0
--e git+https://github.com/simon-weber/gmusicapi@6937a11a26d3e1bf34e13b8bf50f59cb55cbdc03#egg=gmusicapi
+-e git+https://github.com/simon-weber/gmusicapi@4c2528e1e48f85214dfed3268db5110f679ade1b#egg=gmusicapi
 gpsoauth==0.4.1
 httplib2==0.12.0
 idna==2.7
